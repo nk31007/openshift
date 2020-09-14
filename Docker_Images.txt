@@ -1,0 +1,8 @@
+Docker Image Syntax:
+________________________
+
+[registry_uri/][user_name/]image_name[:tag]
+
+redhat registry for containers
+
+registry.access.redhat.com/openshift/hello-openshift

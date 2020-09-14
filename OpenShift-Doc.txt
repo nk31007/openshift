@@ -1,1 +1,13 @@
 https://cloud.redhat.com/openshift/
+https://github.com/openshift/
+https://github.com/openshift/openshift-docs
+https://github.com/mmumshad/kubernetes-example-voting-app/blob/master/voting-app-pod.yml
+https://github.com/dockersamples
+https://www.udemy.com/course/deploying-containerized-applications-technical-overview/
+
+
+Open Shift Installation Docs:
+
+https://www.youtube.com/watch?v=JhlzSoayksY
+
+https://www.youtube.com/watch?v=wWSRpaosc-M
